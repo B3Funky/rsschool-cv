@@ -6,3 +6,6 @@
 
 ### 3. About myself:
 I'm 35 y.o.
+
+### 4. Skills:
+JavaScript, Node.js, HTML, CSS, Git, Java.
