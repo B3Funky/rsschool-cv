@@ -24,3 +24,6 @@ function positiveSum(arr) {
 ```
 
 ### 6. Work experience:
+
+### 7. Education:
+[The Bonch-Bruevich Saint Petersburg State University of Telecommunications Russian](https://www.sut.ru)
