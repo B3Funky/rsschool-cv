@@ -27,3 +27,6 @@ function positiveSum(arr) {
 
 ### 7. Education:
 [The Bonch-Bruevich Saint Petersburg State University of Telecommunications Russian](https://www.sut.ru)
+
+### 8. English level:
+A2
