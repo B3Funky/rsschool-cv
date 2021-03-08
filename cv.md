@@ -22,3 +22,5 @@ function positiveSum(arr) {
   return sum
 }
 ```
+
+### 6. Work experience:
