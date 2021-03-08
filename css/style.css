@@ -1,0 +1,38 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+    font-family: 'Recursive', sans-serif;
+    background-image: url(../img/background.jpg);
+}
+
+.main {
+    margin: 10%;
+    font-family: 'Recursive', sans-serif;
+    background: rgba(250, 235, 215, 0.92);
+    border-radius: 20px;
+    border: 2px solid rgb(255, 167, 172);
+}
+
+.round {
+    margin-left: 20%;
+    margin-top: 7%;
+    border-radius: 100px;
+    border: 4px solid rgb(255, 70, 77);
+    box-shadow: 0 0 15px #661b33;
+}
+
+.other {
+    margin-left: 50px;
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.grid-container {
+    max-width: 1500px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 120px);
+}
