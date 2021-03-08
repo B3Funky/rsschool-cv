@@ -9,3 +9,16 @@ I'm 35 y.o.
 
 ### 4. Skills:
 JavaScript, Node.js, HTML, CSS, Git, Java.
+
+### 5. Code examples:
+```
+function positiveSum(arr) {
+  let sum = 0;
+  for (let i = 0; i < arr.length; i++) {
+    if (arr[i] > 0){
+      sum += arr[i]
+    }
+  }
+  return sum
+}
+```
