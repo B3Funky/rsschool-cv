@@ -1,7 +1,6 @@
 body {
     width: 800px;
     margin: 0 auto;
-    font-family: 'Recursive', sans-serif;
     background-image: url(../img/background.jpg);
 }
 
@@ -31,7 +30,7 @@ body {
 }
 
 .grid-container {
-    max-width: 1500px;
+    max-width: 800px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 120px);
